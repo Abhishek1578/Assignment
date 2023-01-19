@@ -5,5 +5,5 @@
  * @author LENOVO
  *
  */
-module project {
+module projct {
 }
